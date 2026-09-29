@@ -1,0 +1,13 @@
+body {
+  background: #f4f1ec;
+}
+
+.card-img-top {
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.card {
+  border-radius: 12px;
+  overflow: hidden;
+}
